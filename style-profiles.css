@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: steelblue;
+    background-image: linear-gradient(314deg, #40af0d), #810606;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Alloha", sans-serif;
+    margin: 0;
+    min-height: 100vh;
+}
